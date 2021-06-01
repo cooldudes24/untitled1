@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29363084-1a5d-44ae-a1cb-e87c98484503" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="3d80f247-ba51-4f7d-9fb0-97bcd2bb6683" />
+  <component name="ProjectId" id="1mMOaWnnQa3lJhM9PXhYCIXbms2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowPython Console.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Huntest Test.ipynb" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.HuntestTest">
+    <configuration name="HuntestTest" type="PythonConfigurationType" factoryName="Python">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Coursera Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HuntestTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Week3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python 3 Programming Specialization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Coursera Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Coursera Python/Week3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Week3" />
+      <item itemvalue="Python.HuntestTest" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29363084-1a5d-44ae-a1cb-e87c98484503" name="Default Changelist" comment="" />
+      <created>1609300056099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609300056099</updated>
+      <workItem from="1609300061322" duration="29000" />
+      <workItem from="1609301667194" duration="9000" />
+      <workItem from="1609302296660" duration="2424000" />
+      <workItem from="1609312334818" duration="684000" />
+      <workItem from="1609313335994" duration="877000" />
+      <workItem from="1609476878438" duration="598000" />
+      <workItem from="1609742371539" duration="1311000" />
+      <workItem from="1610332612707" duration="51000" />
+      <workItem from="1610337364860" duration="1246000" />
+      <workItem from="1610345900980" duration="762000" />
+      <workItem from="1610356185659" duration="600000" />
+      <workItem from="1610423901951" duration="12000" />
+      <workItem from="1610434364363" duration="1115000" />
+      <workItem from="1610517632179" duration="542000" />
+      <workItem from="1611025953704" duration="377000" />
+      <workItem from="1611106663661" duration="2254000" />
+      <workItem from="1611112485279" duration="304000" />
+      <workItem from="1611126785375" duration="534000" />
+      <workItem from="1611192916898" duration="2260000" />
+      <workItem from="1611196624540" duration="2238000" />
+      <workItem from="1611284669598" duration="352000" />
+      <workItem from="1611363752890" duration="2769000" />
+      <workItem from="1611543324405" duration="6000" />
+      <workItem from="1611546061186" duration="1327000" />
+      <workItem from="1611555511181" duration="237000" />
+      <workItem from="1611574325847" duration="867000" />
+      <workItem from="1611631332193" duration="24000" />
+      <workItem from="1612919227725" duration="53000" />
+      <workItem from="1615866673637" duration="2959000" />
+      <workItem from="1622528629702" duration="1505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="335" y="14" key="#Week1" timestamp="1622528658637">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="335" y="14" key="#Week1/0.0.1218.720@0.0.1218.720" timestamp="1622528658637" />
+    <state x="65" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622529773365">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="65" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1218.720@0.0.1218.720" timestamp="1622529773365" />
+    <state x="390" y="118" key="FileChooserDialogImpl" timestamp="1622529505945">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="390" y="118" key="FileChooserDialogImpl/0.0.1218.720@0.0.1218.720" timestamp="1622529505945" />
+    <state x="113" y="6" key="SettingsEditor" timestamp="1622528750325">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="113" y="6" key="SettingsEditor/0.0.1218.720@0.0.1218.720" timestamp="1622528750325" />
+    <state x="317" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1622528632118">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="317" y="188" key="com.intellij.ide.util.TipDialog/0.0.1218.720@0.0.1218.720" timestamp="1622528632118" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_3_Programming_Specialization$testjunk.coverage" NAME="Week3 Coverage Results" MODIFIED="1609743088859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_3_Programming_Specialization$Week3.coverage" NAME="Week3 Coverage Results" MODIFIED="1611574561311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Coursera Python" />
+    <SUITE FILE_PATH="coverage/Python_3_Programming_Specialization$Week1.coverage" NAME="Week1 Coverage Results" MODIFIED="1609305003676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

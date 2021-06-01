@@ -1,3 +1,5 @@
+#ALL of code made by Mr.Constantius. Have my little work in a Jupyter Notebook, will publish soon.
+
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pprint import pprint
